@@ -1,0 +1,16 @@
+{
+  "name": "의사소통 도우미",
+  "short_name": "의사소통",
+  "description": "자음과 모음을 선택하여 단어를 만드는 의사소통 도우미 앱",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1e293b",
+  "theme_color": "#1e293b",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "any",
+      "type": "image/x-icon"
+    }
+  ]
+} 
